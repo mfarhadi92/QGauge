@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DoubleSpinBox.qml</file>
+        <file>GaugePage.qml</file>
+        <file>ui/Gauge/Gauge.qml</file>
+        <file>ui/Gauge/MFCircularGauge.qml</file>
+        <file>ui/Gauge/MFColorizeFillGauge.qml</file>
+        <file>ui/Gauge/ShapeConfig.qml</file>
+        <file>ui/Gauge/struct.js</file>
+        <file>ui/Gauge/styles.js</file>
+    </qresource>
+</RCC>
